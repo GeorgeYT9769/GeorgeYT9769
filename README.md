@@ -3,6 +3,7 @@ Learning Python and web development
 Have you ever seen my TikTok account? If not, here:
 <a href="https://www.tiktok.com/@george_yt9769_dev" alt="TikTok">TikTok</a>
 <br>
+<p> </p>
 <b>Support Me :)</b>
 <br>
 <a href="https://www.paypal.me/jurajondovcik" target="_blank"><img src="https://user-images.githubusercontent.com/42001064/196043185-ebd61195-44ee-480f-9b76-f5eb7cfcaf55.png" alt="Paypal" width="180" ></a>
