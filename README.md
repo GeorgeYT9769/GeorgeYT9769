@@ -1,7 +1,25 @@
-<p>👋 Hi, I’m <a href="https://github.com/GeorgeYT9769">Juraj</a></p>
-<p>Learning Flutter for Android apps</p>
-<p>Working on my own app...</p>
-<p>Have you ever seen my TikTok account? If not, it's <a href="https://www.tiktok.com/@george_yt9769_dev" alt="TikTok">HERE</a></p>
-<br>
-<br>
-<a href="https://www.paypal.me/jurajondovcik" target="_blank"><img src="https://user-images.githubusercontent.com/42001064/196043185-ebd61195-44ee-480f-9b76-f5eb7cfcaf55.png" alt="Paypal" width="200" ></a>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Juraj and I'm a student from Slovakia who likes to code...</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Flutter<br>🎯 Goals: being a good person</p>
+
+###
+
+<h2 align="left">Current project</h2>
+
+###
+
+<div align="center">
+  <img height="400" src="https://github.com/GeorgeYT9769/cardabase-app/blob/main/fastlane/metadata/android/en-US/images/featureGraphic.png?raw=true"  />
+</div>
+
+###
